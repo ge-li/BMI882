@@ -1,6 +1,6 @@
 # 50 Years of Data Science
 
-###[Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734)
+### [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734)
 
 ##### Title: 50 Years of Data Science
 
