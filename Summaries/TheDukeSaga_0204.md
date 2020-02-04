@@ -1,6 +1,6 @@
 # The Duke Saga
 
-###[Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942)
+### [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942)
 
 ##### Title: Deriving chemosensitivity from cell lines: Forensic bioinformatics and reproducible research in high-throughput biology
 
