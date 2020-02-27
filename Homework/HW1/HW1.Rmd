@@ -1,8 +1,9 @@
 ---
 title: "BMI 882 Homework 1"
 author: "Li Ge"
-date: "2/27/2020"
+date: "`r Sys.Date()`"
 output: pdf_document
+urlcolor: blue
 ---
 
 ```{r setup, include=FALSE}
