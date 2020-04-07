@@ -14,7 +14,7 @@ I'm not going to summarize these two papers of different versions since their ab
 My questions:
 
 1. Why are people still accepting skewed test set that doesn't reflect real unseen data??? (The skin cancer paper was also published in 2019.)
-2. The manhattan plot in Fig. 3 of the newer paper looks strange because of the lack of the patterns of linkage disequilibrium in those identified loci.
+2. The manhattan plot in Fig. 3 of the newer paper looks strange because of the lack of the patterns of linkage disequilibrium in those identified loci. Is that normal?
 
 **2010 Abstract** 
 
